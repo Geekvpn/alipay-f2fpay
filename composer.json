@@ -1,0 +1,18 @@
+{
+    "name": "Geekapi/alipay-f2fpay",
+    "description": "alipay-f2fpay",
+    "keywords": ["alipay", "f2fpay", "Geekapi", "sdk"],
+    "type": "library",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/Geekvpn/alipay-f2fpay",
+    "authors": "ali",
+    "require": {
+        "php": ">=5.3.0",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "psr/log": "^1.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8.35"
+    }
+}

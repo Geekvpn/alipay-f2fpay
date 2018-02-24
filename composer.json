@@ -1,6 +1,6 @@
 {
-    "name": "geekapi/alipay-f2fpay",
-    "description": "alipay-f2fpay",
+    "name": "geekapi/alif2fpay",
+    "description": "alif2fpay",
     "keywords": ["alipay", "f2fpay", "geekapi", "sdk"],
     "type": "library",
     "license": "Apache-2.0",

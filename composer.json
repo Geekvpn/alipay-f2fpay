@@ -5,7 +5,14 @@
     "type": "library",
     "license": "Apache-2.0",
     "homepage": "https://github.com/geekvpn/alipay-f2fpay",
-    "authors": "ali",
+    "authors": [
+        {
+            "name": "ali",
+            "email": "ali@ali.com",
+            "homepage": "https://alipay.com",
+            "role": "Developer"        
+        }
+    ],
     "require": {
         "php": ">=5.3.0",
         "ext-curl": "*",

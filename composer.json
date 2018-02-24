@@ -1,7 +1,7 @@
 {
-    "name": "Geekapi/alipay-f2fpay",
+    "name": "geekapi/alipay-f2fpay",
     "description": "alipay-f2fpay",
-    "keywords": ["alipay", "f2fpay", "Geekapi", "sdk"],
+    "keywords": ["alipay", "f2fpay", "geekapi", "sdk"],
     "type": "library",
     "license": "Apache-2.0",
     "homepage": "https://github.com/geekvpn/alipay-f2fpay",
